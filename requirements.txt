@@ -1,0 +1,6 @@
+PyJWT
+python-dotenv==0.20.0
+sanic==22.6.2
+sanic-ext==22.6.3
+sanic-routing==22.3.0
+bcrypt
